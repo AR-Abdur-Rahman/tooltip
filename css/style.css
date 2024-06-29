@@ -1,0 +1,20 @@
+:root{
+    --black: #010101;
+}
+
+*{
+    margin: 0;
+
+    padding: 0;
+}
+
+p{
+    font-size: 20px;
+
+    font-weight: 700;
+
+    color: var(--black) ;
+}
+p a{
+    text-decoration: none;
+}
